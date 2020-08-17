@@ -1,32 +1,11 @@
-## Portfolio
+## Michigan Brewery Road Trip 2020
 
 ---
 
-### Category Name 1 
+### Countdown
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/timer.js"></script>
 
 
 
