@@ -4,9 +4,8 @@
 
 ### Countdown
 
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="/timer.js"></script>
 
+<script src="timer.js" type="text/javascript"></script>
 
 
 ---
