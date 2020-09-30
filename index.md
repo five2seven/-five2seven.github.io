@@ -5,7 +5,6 @@
 ### Countdown
 
 
-<script src="timer.js" type="text/javascript"></script>
 
 
 ---
