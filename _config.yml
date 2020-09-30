@@ -1,9 +1,6 @@
 title: fivetwoseven # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  i have no idea how this happens
-  <br><br> 
-  <br><br>
+
   
 theme: jekyll-theme-midnight
 google_analytics: UA-33714406-1 # your Google Analytics tracking ID here

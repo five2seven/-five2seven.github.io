@@ -1,8 +1,8 @@
-## Michigan Brewery Road Trip 2020
+## 
 
 ---
 
-### Countdown
+### 
 
 
 
